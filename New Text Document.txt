@@ -1,0 +1,1 @@
+cd D:\diabetes-risk-assessment-ml-main && venv\Scripts\activate && streamlit run deployment/app.py
